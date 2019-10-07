@@ -4,9 +4,9 @@ import json
 
 class OnePageProduct(Resource):
     def get(self):
-		opt_param = request.args.get("something")
-		if opt_param is None:
-			return None
+        opt_param = request.args.get("Id")
+        if opt_param is None:
+            return None
         response = {
 		  "errors":[
 		  ],
