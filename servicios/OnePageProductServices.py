@@ -4,12 +4,12 @@ import json
 
 class OnePageProduct(Resource):
     def get(self): 
-		if request.args.get('Id') is None:
-			response = {
-  "errors":[
-	  "invalid ID"
-  ]}
-			return response 
+# 		if request.args.get('Id') is None:
+# 			response = {
+#   "errors":[
+# 	  "invalid ID"
+#   ]}
+# 			return response 
         response = {
   "errors":[
  
