@@ -4,7 +4,7 @@ import json
 
 class OnePageProduct(Resource):
     def get(self):
-		response={
+        response = {
 		  "errors":[
 		  ],
 		  "success":"true",
