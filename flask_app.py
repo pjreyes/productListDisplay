@@ -17,4 +17,5 @@ api = Api(app)
 api.add_resource(ProductListDisplay,'/api/v1/ProductListDisplay')
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",port='5004')
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0',port=port,debug=True)
