@@ -43,7 +43,7 @@ class OnePageProduct(Resource):
 		     }
 		  ]
 		}
-		print(response)
+        print(response)
         return response
 
 
