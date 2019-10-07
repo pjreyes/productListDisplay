@@ -54,12 +54,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 1,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
+			"isHDAvailable": "true",
 			"isCCAvailable": "false",
 			"availableSkusTotal": 4,
-			"displayRatings": ""true"",
-			"hasSize": ""true"",
-			"published": ""true""
+			"displayRatings": "true",
+			"hasSize": "true",
+			"published": "true"
 		},
 		{
 			"productId": "2713138",
@@ -77,13 +77,13 @@ class ProductListDisplay(Resource):
 				}
 			},
 			"color": "Negro",
-			"useImageAtProductLevel": ""true"",
+			"useImageAtProductLevel": "true",
 			"variations": {
 				"color": [{
 					"label": "Negro",
 					"value": "151515",
 					"extraInfo": "2713146",
-					"selected": ""true""
+					"selected": "true"
 				}]
 			},
 			"prices": [{
@@ -106,12 +106,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 1,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
+			"isHDAvailable": "true",
 			"isCCAvailable": "false",
 			"availableSkusTotal": 1,
-			"displayRatings": ""true"",
-			"hasSize": ""true"",
-			"published": ""true""
+			"displayRatings": "true",
+			"hasSize": "true",
+			"published": "true"
 		},
 		{
 			"productId": "1822082",
@@ -135,12 +135,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 1,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
-			"isCCAvailable": ""true"",
+			"isHDAvailable": "true",
+			"isCCAvailable": "true",
 			"availableSkusTotal": 1,
-			"displayRatings": ""true"",
+			"displayRatings": "true",
 			"hasSize": "false",
-			"published": ""true""
+			"published": "true"
 		},
 		{
 			"productId": "2421589",
@@ -164,7 +164,7 @@ class ProductListDisplay(Resource):
 					"label": "Negro",
 					"value": "151515",
 					"extraInfo": "2421590",
-					"selected": ""true""
+					"selected": "true"
 				},
 				{
 					"label": "Nergo",
@@ -199,12 +199,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 1,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
+			"isHDAvailable": "true",
 			"isCCAvailable": "false",
 			"availableSkusTotal": 12,
-			"displayRatings": ""true"",
-			"hasSize": ""true"",
-			"published": ""true""
+			"displayRatings": "true",
+			"hasSize": "true",
+			"published": "true"
 		},
 		{
 			"productId": "2698999",
@@ -222,7 +222,7 @@ class ProductListDisplay(Resource):
 					"label": "Charol",
 					"value": "151515",
 					"extraInfo": "2699007",
-					"selected": ""true""
+					"selected": "true"
 				},
 				{
 					"label": "Negro",
@@ -243,12 +243,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 1,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
+			"isHDAvailable": "true",
 			"isCCAvailable": "false",
 			"availableSkusTotal": 7,
-			"displayRatings": ""true"",
-			"hasSize": ""true"",
-			"published": ""true""
+			"displayRatings": "true",
+			"hasSize": "true",
+			"published": "true"
 		},
 		{
 			"productId": "1744653",
@@ -272,12 +272,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 1,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
-			"isCCAvailable": ""true"",
+			"isHDAvailable": "true",
+			"isCCAvailable": "true",
 			"availableSkusTotal": 1,
-			"displayRatings": ""true"",
+			"displayRatings": "true",
 			"hasSize": "false",
-			"published": ""true""
+			"published": "true"
 		},
 		{
 			"productId": "880784339",
@@ -301,7 +301,7 @@ class ProductListDisplay(Resource):
 					"label": "Verde",
 					"value": "5B856A",
 					"extraInfo": "880784358",
-					"selected": ""true""
+					"selected": "true"
 				},
 				{
 					"label": "Beige",
@@ -342,12 +342,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 2,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
-			"isCCAvailable": ""true"",
+			"isHDAvailable": "true",
+			"isCCAvailable": "true",
 			"availableSkusTotal": 7,
-			"displayRatings": ""true"",
-			"hasSize": ""true"",
-			"published": ""true""
+			"displayRatings": "true",
+			"hasSize": "true",
+			"published": "true"
 		},
 		{
 			"productId": "2669409",
@@ -371,7 +371,7 @@ class ProductListDisplay(Resource):
 					"label": "Negro",
 					"value": "000000",
 					"extraInfo": "2669410",
-					"selected": ""true""
+					"selected": "true"
 				},
 				{
 					"label": "Verde",
@@ -400,12 +400,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 1,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
-			"isCCAvailable": ""true"",
+			"isHDAvailable": "true",
+			"isCCAvailable": "true",
 			"availableSkusTotal": 5,
-			"displayRatings": ""true"",
-			"hasSize": ""true"",
-			"published": ""true""
+			"displayRatings": "true",
+			"hasSize": "true",
+			"published": "true"
 		},
 		{
 			"productId": "1541098",
@@ -429,12 +429,12 @@ class ProductListDisplay(Resource):
 			"totalReviews": 1,
 			"isCompare": "false",
 			"isCODAvailable": "false",
-			"isHDAvailable": ""true"",
-			"isCCAvailable": ""true"",
+			"isHDAvailable": "true",
+			"isCCAvailable": "true",
 			"availableSkusTotal": 1,
-			"displayRatings": ""true"",
+			"displayRatings": "true",
 			"hasSize": "false",
-			"published": ""true""
+			"published": "true"
 		},
 		{
 			"productId": "880709086",
@@ -458,7 +458,7 @@ class ProductListDisplay(Resource):
 					"label": "Violeta",
 					"value": "7C196F",
 					"extraInfo": "880709087",
-					"selected": ""true""
+					"selected": "true"
 				},
 				{
 					"label": "Azul oscuro",
