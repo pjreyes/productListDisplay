@@ -3,14 +3,8 @@ from flask import jsonify, request
 import json
 
 class OnePageProduct(Resource):
-    def get(self): 
-# 		if request.args.get('Id') is None:
-# 			response = {
-#   "errors":[
-# 	  "invalid ID"
-#   ]}
-# 			return response 
-		response = {
+    def get(self):
+		response={
 		  "errors":[
 		  ],
 		  "success":"true",
