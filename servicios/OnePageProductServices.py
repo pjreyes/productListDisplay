@@ -10,7 +10,7 @@ class OnePageProduct(Resource):
 # 	  "invalid ID"
 #   ]}
 # 			return response 
-        response = {
+		response = {
   "errors":[
  
   ],
@@ -45,13 +45,12 @@ class OnePageProduct(Resource):
            ],
            "published":"true",
            "url":"/product/5527259/Smartphone-Galaxy-J5-Prime-Negro-Dual/5527259",
-		   "description":"BLABLABLA BLA BLA BLA BLA blablabla"
+		   "description":"BLABLABLA BLA BLA BLA BLA blablabla",
         }
      }
   ]
 }
-	    print(response)
-            
+		print(response)
         return response
 
 
