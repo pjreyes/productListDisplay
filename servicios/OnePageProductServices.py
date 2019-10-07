@@ -11,45 +11,44 @@ class OnePageProduct(Resource):
 #   ]}
 # 			return response 
 		response = {
-  "errors":[
- 
-  ],
-  "success":"true",
-  "products":[
-     {
-        "product":{
-           "brand":"Samsung",
-           "displayName":"Smartphone Galaxy J5 Prime Negro Dual",
-           "id":"1494243",
-           "prices":[
-              {
-                 "label":"Internet",
-                 "originalPrice":"56.981",
-                 "symbol":"$",
-                 "type":3,
-                 "isLoyalty":"false"
-              },
-              {
-                 "label":"Normal",
-                 "originalPrice":"56.990",
-                 "symbol":"$",
-                 "type":2,
-                 "isLoyalty":"false"
-              },
-              {
-                 "label":"CMR Puntos",
-                 "originalPrice":"379",
-                 "type":14,
-                 "isLoyalty":"false"
-              }
-           ],
-           "published":"true",
-           "url":"/product/5527259/Smartphone-Galaxy-J5-Prime-Negro-Dual/5527259",
-		   "description":"BLABLABLA BLA BLA BLA BLA blablabla",
-        }
-     }
-  ]
-}
+		  "errors":[
+		  ],
+		  "success":"true",
+		  "products":[
+		     {
+		        "product":{
+		           "brand":"Samsung",
+		           "displayName":"Smartphone Galaxy J5 Prime Negro Dual",
+		           "id":"1494243",
+		           "prices":[
+		              {
+		                 "label":"Internet",
+		                 "originalPrice":"56.981",
+		                 "symbol":"$",
+		                 "type":3,
+		                 "isLoyalty":"false"
+		              },
+		              {
+		                 "label":"Normal",
+		                 "originalPrice":"56.990",
+		                 "symbol":"$",
+		                 "type":2,
+		                 "isLoyalty":"false"
+		              },
+		              {
+		                 "label":"CMR Puntos",
+		                 "originalPrice":"379",
+		                 "type":14,
+		                 "isLoyalty":"false"
+		              }
+		           ],
+		           "published":"true",
+		           "url":"/product/5527259/Smartphone-Galaxy-J5-Prime-Negro-Dual/5527259",
+				   "description":"BLABLABLA BLA BLA BLA BLA blablabla",
+		        }
+		     }
+		  ]
+		}
 		print(response)
         return response
 
