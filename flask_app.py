@@ -6,6 +6,7 @@ import logging
 import sys , os
 import json
 from servicios.ProductListDisplayServices import ProductListDisplay
+from servicios.OnePageProductServices import OnePageProduct
 
 sys.path.append('../')
 
@@ -15,6 +16,8 @@ api = Api(app)
 
 
 api.add_resource(ProductListDisplay,'/api/v1/ProductListDisplay')
+api.add_resource(OnePageProduct,'/api/v1/OnePageProduct')
+
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
