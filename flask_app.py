@@ -7,6 +7,7 @@ import sys , os
 import json
 from servicios.ProductListDisplayServices import ProductListDisplay
 from servicios.OnePageProductServices import OnePageProduct
+from servicios.TestingMessage import TestingMessages
 
 sys.path.append('../')
 
@@ -16,6 +17,7 @@ api = Api(app)
 
 
 api.add_resource(ProductListDisplay,'/api/v1/ProductListDisplay')
+api.add_resource(TestingMessages'/api/v1/iaTalks')
 api.add_resource(OnePageProduct,'/api/v1/OnePageProduct')
 
 
