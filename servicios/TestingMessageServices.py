@@ -4,7 +4,7 @@ from flask_restful import Resource, Api, abort,reqparse
 from flask import jsonify, request
 import json
 
-class TestingMessages(Resource):
+class TestingMessage(Resource):
     def get(self):    
         response ={
         "Status_code":200,
