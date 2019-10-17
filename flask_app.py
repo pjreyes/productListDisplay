@@ -17,7 +17,7 @@ api = Api(app)
 
 
 api.add_resource(ProductListDisplay,'/api/v1/ProductListDisplay')
-api.add_resource(TestingMessage'/api/v1/iaTalks')
+api.add_resource(TestingMessage,'/api/v1/iaTalks')
 api.add_resource(OnePageProduct,'/api/v1/OnePageProduct')
 
 
