@@ -26,7 +26,7 @@ class ProductListDisplay(Resource):
 		"useRecordImage": "false",
 		"resultList": [{
 			"productId": "880833578",
-			"url": "/testing-ar/product/880833578/Musculosa-animal-print",
+			"url": "/product/880833578/Musculosa-animal-print",
 			"brand": "Basement",
 			"backendCategory": "J04060201",
 			"skuId": "880833583",
@@ -63,7 +63,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "2713138",
-			"url": "/testing-ar/product/2713138/Botas-Gunson",
+			"url": "/product/2713138/Botas-Gunson",
 			"brand": "Call It Spring",
 			"backendCategory": "J10090301",
 			"skuId": "2713146",
@@ -115,7 +115,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "1822082",
-			"url": "/testing-ar/product/1822082/Wild-Elixir-EDT-80-ml",
+			"url": "/product/1822082/Wild-Elixir-EDT-80-ml",
 			"brand": "Shakira",
 			"backendCategory": "J08010102",
 			"skuId": "1822082",
@@ -144,7 +144,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "2421589",
-			"url": "/testing-ar/product/2421589/Jean",
+			"url": "/product/2421589/Jean",
 			"brand": "Mossimo",
 			"backendCategory": "J05010101",
 			"skuId": "2421590",
@@ -208,7 +208,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "2698999",
-			"url": "/testing-ar/product/2698999/Borcegos-Mimi",
+			"url": "/product/2698999/Borcegos-Mimi",
 			"brand": "Americanino",
 			"backendCategory": "J10020401",
 			"skuId": "2699007",
@@ -252,7 +252,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "1744653",
-			"url": "/testing-ar/product/1744653/DSK-Nude-BB-Cream-003-30-ml",
+			"url": "/product/1744653/DSK-Nude-BB-Cream-003-30-ml",
 			"brand": "Dior",
 			"backendCategory": "J08020301",
 			"skuId": "1744653",
@@ -281,7 +281,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "880784339",
-			"url": "/testing-ar/product/880784339/Campera",
+			"url": "/product/880784339/Campera",
 			"brand": "Newport",
 			"backendCategory": "J04050201",
 			"skuId": "880784358",
@@ -351,7 +351,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "2669409",
-			"url": "/testing-ar/product/2669409/Piloto-Trench",
+			"url": "/product/2669409/Piloto-Trench",
 			"brand": "Americanino",
 			"backendCategory": "J05060101",
 			"skuId": "2669410",
@@ -409,7 +409,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "1541098",
-			"url": "/testing-ar/product/1541098/Prune-III-EDT-50-ml",
+			"url": "/product/1541098/Prune-III-EDT-50-ml",
 			"brand": "Prune",
 			"backendCategory": "J08010102",
 			"skuId": "1541098",
@@ -438,7 +438,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "880709086",
-			"url": "/testing-ar/product/880709086/Remera",
+			"url": "/product/880709086/Remera",
 			"brand": "Sybilla",
 			"backendCategory": "J05030201",
 			"skuId": "880709087",
@@ -502,7 +502,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "2181095",
-			"url": "/testing-ar/product/2181095/Reloj-MU-349",
+			"url": "/product/2181095/Reloj-MU-349",
 			"brand": "Montreal",
 			"backendCategory": "J07060101",
 			"skuId": "2181095",
@@ -540,7 +540,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "2659256",
-			"url": "/testing-ar/product/2659256/Jean",
+			"url": "/product/2659256/Jean",
 			"brand": "University Club",
 			"backendCategory": "J04070301",
 			"skuId": "2659263",
@@ -598,7 +598,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "2702211",
-			"url": "/testing-ar/product/2702211/Zapatillas-33413-502-Free",
+			"url": "/product/2702211/Zapatillas-33413-502-Free",
 			"brand": "Nike",
 			"backendCategory": "J10040401",
 			"skuId": "2721733",
@@ -650,7 +650,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "1316825",
-			"url": "/testing-ar/product/1316825/EDT-60-ml",
+			"url": "/product/1316825/EDT-60-ml",
 			"brand": "Gino Bogani",
 			"backendCategory": "J08010102",
 			"skuId": "1316825",
@@ -679,7 +679,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "148082",
-			"url": "/testing-ar/product/148082/Miracle-Women-EDP-30-ml",
+			"url": "/product/148082/Miracle-Women-EDP-30-ml",
 			"brand": "Lancome",
 			"backendCategory": "J08020102",
 			"skuId": "148082",
@@ -708,7 +708,7 @@ class ProductListDisplay(Resource):
 		},
 		{
 			"productId": "1303138",
-			"url": "/testing-ar/product/1303138/CH-Women-EDT-100-ml",
+			"url": "/product/1303138/CH-Women-EDT-100-ml",
 			"brand": "Carolina Herrera",
 			"backendCategory": "J08020102",
 			"skuId": "1303138",
